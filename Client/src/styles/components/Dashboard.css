@@ -1,0 +1,20 @@
+.Dashboard {
+    display: flex;
+    background-color: white;
+    color: black;
+}
+
+/* Animation practice with Buttons */
+
+.Dashboard--redirect_Feed{
+    animation-name: moveButton;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes moveButton {
+
+    from { transform: translateX(0px);}
+    to{ transform: translateX(500px);}
+}

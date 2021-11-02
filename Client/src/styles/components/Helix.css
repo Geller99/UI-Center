@@ -1,0 +1,25 @@
+
+.Helix {
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 98vh;
+    width: 100%;
+    padding: 3em;
+}
+
+.Helix--FilterComponent {
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 40%;
+    width: 20%;
+    flex-direction: column;
+    list-style: none;
+    
+    
+    
+}
+
+

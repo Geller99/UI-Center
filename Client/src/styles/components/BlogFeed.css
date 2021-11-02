@@ -1,0 +1,11 @@
+
+
+.BlogFeed {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3em;
+    background-color: white;
+    color: black;
+}
